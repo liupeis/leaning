@@ -1,4 +1,4 @@
-package pei.jdk8.concurrence;
+package com.pei.jdk8.concurrence;
 
 /**
  *
@@ -9,7 +9,7 @@ package pei.jdk8.concurrence;
  *volatile的第二条语义：禁止指令重排序。
  *
  *  volatile不能保证原子性
- * @author pei
+ * @author com.pei
  */
 
 public class Volatile1 extends Thread {
